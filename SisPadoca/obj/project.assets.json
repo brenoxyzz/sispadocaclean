@@ -8,23 +8,23 @@
     "net10.0-windows": []
   },
   "packageFolders": {
-    "C:\\Users\\Wagner\\.nuget\\packages\\": {},
+    "C:\\Users\\alunoetec\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Wagner\\Desktop\\sispadoca\\SisPadoca\\SisPadoca.csproj",
+      "projectUniqueName": "C:\\Users\\alunoetec\\Desktop\\sispadoca\\SisPadoca\\SisPadoca.csproj",
       "projectName": "SisPadoca",
-      "projectPath": "C:\\Users\\Wagner\\Desktop\\sispadoca\\SisPadoca\\SisPadoca.csproj",
-      "packagesPath": "C:\\Users\\Wagner\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Wagner\\Desktop\\sispadoca\\SisPadoca\\obj\\",
+      "projectPath": "C:\\Users\\alunoetec\\Desktop\\sispadoca\\SisPadoca\\SisPadoca.csproj",
+      "packagesPath": "C:\\Users\\alunoetec\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\alunoetec\\Desktop\\sispadoca\\SisPadoca\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\Wagner\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\alunoetec\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -53,7 +53,7 @@
         "auditLevel": "low",
         "auditMode": "all"
       },
-      "SdkAnalysisLevel": "10.0.400"
+      "SdkAnalysisLevel": "10.0.300"
     },
     "frameworks": {
       "net10.0-windows": {
@@ -78,7 +78,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.401/PortableRuntimeIdentifierGraph.json",
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.301/PortableRuntimeIdentifierGraph.json",
         "packagesToPrune": {
           "Microsoft.CSharp": "(,4.7.32767]",
           "Microsoft.VisualBasic": "(,10.4.32767]",
